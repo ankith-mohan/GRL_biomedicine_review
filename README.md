@@ -1,5 +1,5 @@
 # GRL_biomedicine_review
-Unofficial repository for approaches described in https://arxiv.org/pdf/2104.04883.pdf
+Unofficial code for approaches described in https://arxiv.org/pdf/2104.04883.pdf
 
 ## Dependencies
 1. networkx: https://networkx.org/documentation/stable/index.html
