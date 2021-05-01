@@ -3,9 +3,9 @@ Unofficial repository for approaches described in https://arxiv.org/pdf/2104.048
 
 ## Dependencies
 1. networkx: https://networkx.org/documentation/stable/index.html
-	Tutorial: https://networkx.org/documentation/stable/tutorial.html
-2. PyTorch Geometric: https://pytorch-geometric.readthedocs.io/en/latest/index.html
-	Tutorial: https://pytorch-geometric.readthedocs.io/en/latest/notes/introduction.html
+	- Tutorial: https://networkx.org/documentation/stable/tutorial.html
+3. PyTorch Geometric: https://pytorch-geometric.readthedocs.io/en/latest/index.html
+	- Tutorial: https://pytorch-geometric.readthedocs.io/en/latest/notes/introduction.html
 
 ## Introduction
 1. DL_basics: Brief introduction of basic deep learning concepts. (Source: CS224W)
